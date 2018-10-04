@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\bin\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.deps.json
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\bin\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.runtimeconfig.json
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\bin\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.runtimeconfig.dev.json
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\bin\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.dll
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\bin\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.pdb
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\obj\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.csprojAssemblyReference.cache
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\obj\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\obj\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\obj\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.AssemblyInfo.cs
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\obj\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.dll
+C:\Users\caljf\Documents\ROCKPAPERSCISSORS\obj\Debug\netcoreapp2.1\ROCKPAPERSCISSORS.pdb
