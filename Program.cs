@@ -118,12 +118,14 @@ namespace ROCKPAPERSCISSORS
                 }
                 else if (loop == "n")
                 {
-                    playAgain = false;
-                }
-                else
-                {
-               
-                }
+                    playAgain = true;
+                    Console.WriteLine("Are you sure?");
+                    Console.ReadLine();
+               }
+               else
+               {
+                   playAgain = false;
+               }
  
             }
         }
