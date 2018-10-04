@@ -8,6 +8,7 @@ namespace ROCKPAPERSCISSORS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HELLO WORLD!!!");
             string inputPlayer, inputCPU;
             int randomInt;
            
