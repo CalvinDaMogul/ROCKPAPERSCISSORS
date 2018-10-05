@@ -15,7 +15,11 @@ namespace ROCKPAPERSCISSORS
             Console.WriteLine(now.ToShortDateString());
             Console.WriteLine(now.ToShortTimeString());
 
+            Console.WriteLine("What is your name: ");
+            Console.ReadLine();
             
+
+
             string inputPlayer, inputCPU;
             int randomInt;
            
