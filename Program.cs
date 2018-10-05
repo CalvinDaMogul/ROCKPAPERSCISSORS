@@ -9,6 +9,13 @@ namespace ROCKPAPERSCISSORS
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD!!!");
+            var dateTime = new DateTime(2018, 10, 1);
+            var now = DateTime.Now;
+
+            Console.WriteLine(now.ToShortDateString());
+            Console.WriteLine(now.ToShortTimeString());
+
+            
             string inputPlayer, inputCPU;
             int randomInt;
            
