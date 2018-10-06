@@ -16,7 +16,7 @@ namespace ROCKPAPERSCISSORS
             Console.WriteLine(now.ToShortTimeString());
 
             Console.WriteLine("What is your name: ");
-            Console.ReadLine();
+            var name = Console.ReadLine();
             
 
 
@@ -54,7 +54,7 @@ namespace ROCKPAPERSCISSORS
                             }
                             else if (inputPlayer == "PAPER")
                             {
-                                Console.WriteLine("PLAYER WINS!!\n\n");
+                                Console.WriteLine(name+" WINS!!\n\n");
                                 scorePlayer++;
                             }
                             else if (inputPlayer == "SCISSORS")
@@ -77,7 +77,7 @@ namespace ROCKPAPERSCISSORS
                             }
                             else if (inputPlayer == "SCISSORS")
                             {
-                                Console.WriteLine("PLAYER WINS!!\n\n");
+                                Console.WriteLine(name+" WINS!!\n\n");
                                 scorePlayer++;
                             }
                             break;
@@ -90,7 +90,7 @@ namespace ROCKPAPERSCISSORS
                             }
                             else if (inputPlayer == "ROCK")
                             {
-                                Console.WriteLine("PLAYER WINS!!\n\n");
+                                Console.WriteLine(name+" WINS!!\n\n");
                                 scorePlayer++;
                             }
                             else if (inputPlayer == "PAPER")
@@ -110,7 +110,7 @@ namespace ROCKPAPERSCISSORS
  
                 if (scorePlayer == 3)
                 {
-                    Console.WriteLine("Player WON!");
+                    Console.WriteLine(name+" WON!");
                 }
                 else if (scoreCPU == 3)
                 {
@@ -131,7 +131,7 @@ namespace ROCKPAPERSCISSORS
                 else if (loop == "n")
                 {
                     playAgain = false;
-                    Console.WriteLine("Are you sure???");
+                    Console.WriteLine("Are you sure "+name+" ???");
                     Console.ReadLine();
                }
                else
