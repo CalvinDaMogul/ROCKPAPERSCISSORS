@@ -8,14 +8,14 @@ namespace ROCKPAPERSCISSORS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLO WORLD!!! Let's play a game!");
+            Console.WriteLine("HELLO WORLD! Let's play a game!");
             var dateTime = new DateTime(2018, 10, 1);
             var now = DateTime.Now;
 
             Console.WriteLine(now.ToShortDateString());
             Console.WriteLine(now.ToShortTimeString());
 
-            Console.WriteLine("What is your name: ");
+            Console.WriteLine("What is your name?: ");
             var name = Console.ReadLine();
             
 
