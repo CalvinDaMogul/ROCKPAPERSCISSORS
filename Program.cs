@@ -10,7 +10,7 @@ namespace ROCKPAPERSCISSORS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLO WORLD! Let's play a game!");
+            Console.WriteLine("HELLO WORLD!!! Let's play a game!!!");
             var dateTime = new DateTime(2018, 10, 1);
             var now = DateTime.Now;
 
@@ -123,7 +123,7 @@ namespace ROCKPAPERSCISSORS
  
                 }
  
-                Console.WriteLine("Do you want to play again?(y/n)");
+                Console.WriteLine(name+"Do you want to play again?(y/n)");
                 string loop = Console.ReadLine();
                 if (loop == "y")
                 {
@@ -133,7 +133,7 @@ namespace ROCKPAPERSCISSORS
                 else if (loop == "n")
                 {
                     playAgain = false;
-                    Console.WriteLine("Are you sure "+name+" ???");
+                    Console.WriteLine("Are you sure???");
                     Console.ReadLine();
                }
                else
