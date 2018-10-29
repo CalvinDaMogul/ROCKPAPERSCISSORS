@@ -17,7 +17,7 @@ namespace ROCKPAPERSCISSORS
             Console.WriteLine(now.ToShortDateString());
             Console.WriteLine(now.ToShortTimeString());
 
-            Console.WriteLine("What is your name?: ");
+            Console.WriteLine("What is your name???: ");
             var name = Console.ReadLine();
             
 
