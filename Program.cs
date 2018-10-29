@@ -10,7 +10,7 @@ namespace ROCKPAPERSCISSORS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLO WORLD! Let's play a game!!!");
+            Console.WriteLine("HELLO WORLD!!! Let's play a game!!!");
             var dateTime = new DateTime(2018, 10, 1);
             var now = DateTime.Now;
 
